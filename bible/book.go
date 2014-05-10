@@ -78,12 +78,12 @@ const (
 
 // A few alias useful in looping through the books
 const (
-	FirstBook = Genesis
-	LastBook  = Revelation
-	FirstOT   = Genesis
-	LastOT    = Malachi
-	FirstNT   = Matthew
-	LastNT    = Revelation
+	FirstBook BookID = Genesis
+	LastBook         = Revelation
+	FirstOT          = Genesis
+	LastOT           = Malachi
+	FirstNT          = Matthew
+	LastNT           = Revelation
 )
 
 // NumBooks is the number of the books in the bible
