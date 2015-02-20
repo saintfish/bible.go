@@ -1,0 +1,546 @@
+[
+  {
+    "Full": "創世記", 
+    "ID": "Genesis", 
+    "Aliases": [
+      "创", 
+      "创世记"
+    ], 
+    "Abbr": "創"
+  }, 
+  {
+    "Full": "出埃及記", 
+    "ID": "Exodus", 
+    "Aliases": [
+      "出埃及记"
+    ], 
+    "Abbr": "出"
+  }, 
+  {
+    "Full": "利未記", 
+    "ID": "Leviticus", 
+    "Aliases": [
+      "利未记"
+    ], 
+    "Abbr": "利"
+  }, 
+  {
+    "Full": "民數記", 
+    "ID": "Numbers", 
+    "Aliases": [
+      "民数记"
+    ], 
+    "Abbr": "民"
+  }, 
+  {
+    "Full": "申命記", 
+    "ID": "Deuteronomy", 
+    "Aliases": [
+      "申命记"
+    ], 
+    "Abbr": "申"
+  }, 
+  {
+    "Full": "約書亞記", 
+    "ID": "Joshua", 
+    "Aliases": [
+      "书", 
+      "约书亚记"
+    ], 
+    "Abbr": "書"
+  }, 
+  {
+    "Full": "士師記", 
+    "ID": "Judges", 
+    "Aliases": [
+      "士师记"
+    ], 
+    "Abbr": "士"
+  }, 
+  {
+    "Full": "路得記", 
+    "ID": "Ruth", 
+    "Aliases": [
+      "路得记"
+    ], 
+    "Abbr": "得"
+  }, 
+  {
+    "Full": "撒母耳記上", 
+    "ID": "Samuel1", 
+    "Aliases": [
+      "撒母耳记上"
+    ], 
+    "Abbr": "撒上"
+  }, 
+  {
+    "Full": "撒母耳記下", 
+    "ID": "Samuel2", 
+    "Aliases": [
+      "撒母耳记下"
+    ], 
+    "Abbr": "撒下"
+  }, 
+  {
+    "Full": "列王紀上", 
+    "ID": "Kings1", 
+    "Aliases": [
+      "列王纪上"
+    ], 
+    "Abbr": "王上"
+  }, 
+  {
+    "Full": "列王紀下", 
+    "ID": "Kings2", 
+    "Aliases": [
+      "列王纪下"
+    ], 
+    "Abbr": "王下"
+  }, 
+  {
+    "Full": "歷代志上", 
+    "ID": "Chronicles1", 
+    "Aliases": [
+      "历代志上"
+    ], 
+    "Abbr": "代上"
+  }, 
+  {
+    "Full": "歷代志下", 
+    "ID": "Chronicles2", 
+    "Aliases": [
+      "历代志下"
+    ], 
+    "Abbr": "代下"
+  }, 
+  {
+    "Full": "以斯拉記", 
+    "ID": "Ezra", 
+    "Aliases": [
+      "以斯拉记"
+    ], 
+    "Abbr": "拉"
+  }, 
+  {
+    "Full": "尼希米記", 
+    "ID": "Nehemiah", 
+    "Aliases": [
+      "尼希米记"
+    ], 
+    "Abbr": "尼"
+  }, 
+  {
+    "Full": "以斯帖記", 
+    "ID": "Esther", 
+    "Aliases": [
+      "以斯帖记"
+    ], 
+    "Abbr": "斯"
+  }, 
+  {
+    "Full": "約伯記", 
+    "ID": "Job", 
+    "Aliases": [
+      "约伯记"
+    ], 
+    "Abbr": "伯"
+  }, 
+  {
+    "Full": "詩篇", 
+    "ID": "Psalm", 
+    "Aliases": [
+      "诗", 
+      "诗篇"
+    ], 
+    "Abbr": "詩"
+  }, 
+  {
+    "Full": "箴言", 
+    "ID": "Proverbs", 
+    "Aliases": [], 
+    "Abbr": "箴"
+  }, 
+  {
+    "Full": "傳道書", 
+    "ID": "Ecclesiastes", 
+    "Aliases": [
+      "传", 
+      "传道书"
+    ], 
+    "Abbr": "傳"
+  }, 
+  {
+    "Full": "雅歌", 
+    "ID": "SongOfSongs", 
+    "Aliases": [], 
+    "Abbr": "歌"
+  }, 
+  {
+    "Full": "以賽亞書", 
+    "ID": "Isaiah", 
+    "Aliases": [
+      "以赛亚书", 
+      "赛"
+    ], 
+    "Abbr": "賽"
+  }, 
+  {
+    "Full": "耶利米書", 
+    "ID": "Jeremiah", 
+    "Aliases": [
+      "耶利米书"
+    ], 
+    "Abbr": "耶"
+  }, 
+  {
+    "Full": "耶利米哀歌", 
+    "ID": "Lamentations", 
+    "Aliases": [], 
+    "Abbr": "哀"
+  }, 
+  {
+    "Full": "以西結書", 
+    "ID": "Ezekiel", 
+    "Aliases": [
+      "以西结书", 
+      "结"
+    ], 
+    "Abbr": "結"
+  }, 
+  {
+    "Full": "但以理書", 
+    "ID": "Daniel", 
+    "Aliases": [
+      "但以理书"
+    ], 
+    "Abbr": "但"
+  }, 
+  {
+    "Full": "何西阿書", 
+    "ID": "Hosea", 
+    "Aliases": [
+      "何西阿书"
+    ], 
+    "Abbr": "何"
+  }, 
+  {
+    "Full": "約珥書", 
+    "ID": "Joel", 
+    "Aliases": [
+      "约珥书"
+    ], 
+    "Abbr": "珥"
+  }, 
+  {
+    "Full": "阿摩司書", 
+    "ID": "Amos", 
+    "Aliases": [
+      "阿摩司书"
+    ], 
+    "Abbr": "摩"
+  }, 
+  {
+    "Full": "俄巴底亞書", 
+    "ID": "Obadiah", 
+    "Aliases": [
+      "俄巴底亚书"
+    ], 
+    "Abbr": "俄"
+  }, 
+  {
+    "Full": "約拿書", 
+    "ID": "Jonah", 
+    "Aliases": [
+      "约拿书"
+    ], 
+    "Abbr": "拿"
+  }, 
+  {
+    "Full": "彌迦書", 
+    "ID": "Micah", 
+    "Aliases": [
+      "弥", 
+      "弥迦书"
+    ], 
+    "Abbr": "彌"
+  }, 
+  {
+    "Full": "那鴻書", 
+    "ID": "Nahum", 
+    "Aliases": [
+      "那鸿书", 
+      "鸿"
+    ], 
+    "Abbr": "鴻"
+  }, 
+  {
+    "Full": "哈巴谷書", 
+    "ID": "Habakkuk", 
+    "Aliases": [
+      "哈巴谷书"
+    ], 
+    "Abbr": "哈"
+  }, 
+  {
+    "Full": "西番雅書", 
+    "ID": "Zephaniah", 
+    "Aliases": [
+      "西番雅书"
+    ], 
+    "Abbr": "番"
+  }, 
+  {
+    "Full": "哈該書", 
+    "ID": "Haggai", 
+    "Aliases": [
+      "哈该书", 
+      "该"
+    ], 
+    "Abbr": "該"
+  }, 
+  {
+    "Full": "撒迦利亞書", 
+    "ID": "Zechariah", 
+    "Aliases": [
+      "亚", 
+      "撒迦利亚书"
+    ], 
+    "Abbr": "亞"
+  }, 
+  {
+    "Full": "瑪拉基書", 
+    "ID": "Malachi", 
+    "Aliases": [
+      "玛", 
+      "玛拉基书"
+    ], 
+    "Abbr": "瑪"
+  }, 
+  {
+    "Full": "馬太福音", 
+    "ID": "Matthew", 
+    "Aliases": [
+      "马太福音"
+    ], 
+    "Abbr": "太"
+  }, 
+  {
+    "Full": "馬可福音", 
+    "ID": "Mark", 
+    "Aliases": [
+      "马可福音"
+    ], 
+    "Abbr": "可"
+  }, 
+  {
+    "Full": "路加福音", 
+    "ID": "Luke", 
+    "Aliases": [], 
+    "Abbr": "路"
+  }, 
+  {
+    "Full": "約翰福音", 
+    "ID": "John", 
+    "Aliases": [
+      "约", 
+      "约翰福音"
+    ], 
+    "Abbr": "約"
+  }, 
+  {
+    "Full": "使徒行傳", 
+    "ID": "Acts", 
+    "Aliases": [
+      "使徒行传"
+    ], 
+    "Abbr": "徒"
+  }, 
+  {
+    "Full": "羅馬書", 
+    "ID": "Romans", 
+    "Aliases": [
+      "罗", 
+      "罗马书"
+    ], 
+    "Abbr": "羅"
+  }, 
+  {
+    "Full": "哥林多前書", 
+    "ID": "Corinthians1", 
+    "Aliases": [
+      "哥林多前书"
+    ], 
+    "Abbr": "林前"
+  }, 
+  {
+    "Full": "哥林多後書", 
+    "ID": "Corinthians2", 
+    "Aliases": [
+      "哥林多后书", 
+      "林后"
+    ], 
+    "Abbr": "林後"
+  }, 
+  {
+    "Full": "加拉太書", 
+    "ID": "Galatians", 
+    "Aliases": [
+      "加拉太书"
+    ], 
+    "Abbr": "加"
+  }, 
+  {
+    "Full": "以弗所書", 
+    "ID": "Ephesians", 
+    "Aliases": [
+      "以弗所书"
+    ], 
+    "Abbr": "弗"
+  }, 
+  {
+    "Full": "腓利比書", 
+    "ID": "Philippians", 
+    "Aliases": [
+      "腓立比书"
+    ], 
+    "Abbr": "腓"
+  }, 
+  {
+    "Full": "歌羅西書", 
+    "ID": "Colossians", 
+    "Aliases": [
+      "歌罗西书"
+    ], 
+    "Abbr": "西"
+  }, 
+  {
+    "Full": "帖撒羅尼迦前書", 
+    "ID": "Thessalonians1", 
+    "Aliases": [
+      "帖撒罗尼迦前书"
+    ], 
+    "Abbr": "帖前"
+  }, 
+  {
+    "Full": "帖撒羅尼迦後書", 
+    "ID": "Thessalonians2", 
+    "Aliases": [
+      "帖后", 
+      "帖撒罗尼迦后书"
+    ], 
+    "Abbr": "帖後"
+  }, 
+  {
+    "Full": "提摩太前書", 
+    "ID": "Timothy1", 
+    "Aliases": [
+      "提摩太前书"
+    ], 
+    "Abbr": "提前"
+  }, 
+  {
+    "Full": "提摩太後書", 
+    "ID": "Timothy2", 
+    "Aliases": [
+      "提后", 
+      "提摩太后书"
+    ], 
+    "Abbr": "提後"
+  }, 
+  {
+    "Full": "提多書", 
+    "ID": "Titus", 
+    "Aliases": [
+      "提多书"
+    ], 
+    "Abbr": "多"
+  }, 
+  {
+    "Full": "腓利門書", 
+    "ID": "Philemon", 
+    "Aliases": [
+      "腓利门书", 
+      "门"
+    ], 
+    "Abbr": "門"
+  }, 
+  {
+    "Full": "希伯來書", 
+    "ID": "Hebrews", 
+    "Aliases": [
+      "希伯来书", 
+      "来"
+    ], 
+    "Abbr": "來"
+  }, 
+  {
+    "Full": "雅各書", 
+    "ID": "James", 
+    "Aliases": [
+      "雅各书"
+    ], 
+    "Abbr": "雅"
+  }, 
+  {
+    "Full": "彼得前書", 
+    "ID": "Peter1", 
+    "Aliases": [
+      "彼得前书"
+    ], 
+    "Abbr": "彼前"
+  }, 
+  {
+    "Full": "彼得後書", 
+    "ID": "Peter2", 
+    "Aliases": [
+      "彼后", 
+      "彼得后书"
+    ], 
+    "Abbr": "彼後"
+  }, 
+  {
+    "Full": "約翰壹書", 
+    "ID": "John1", 
+    "Aliases": [
+      "约一", 
+      "约翰一书"
+    ], 
+    "Abbr": "約一"
+  }, 
+  {
+    "Full": "約翰貳書", 
+    "ID": "John2", 
+    "Aliases": [
+      "约二", 
+      "约翰二书"
+    ], 
+    "Abbr": "約二"
+  }, 
+  {
+    "Full": "約翰參書", 
+    "ID": "John3", 
+    "Aliases": [
+      "约三", 
+      "约翰三书"
+    ], 
+    "Abbr": "約三"
+  }, 
+  {
+    "Full": "猶大書", 
+    "ID": "Jude", 
+    "Aliases": [
+      "犹", 
+      "犹大书"
+    ], 
+    "Abbr": "猶"
+  }, 
+  {
+    "Full": "啟示錄", 
+    "ID": "Revelation", 
+    "Aliases": [
+      "启", 
+      "启示录"
+    ], 
+    "Abbr": "啟"
+  }
+]
